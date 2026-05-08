@@ -1,24 +1,28 @@
+<div align="center">
+
 # 👋 Hey, I’m Rinku
 
-I build **AI-powered interactive products and experiments** that explore new ways humans can interact with software.
+### AI Product Builder • Interaction Designer • Ex-Business Analyst
 
-Right now, I’m focused on:
-> 🧠 AI + 👆 gesture-based interfaces + 🚀 rapid product prototyping
+I build AI-powered interactive systems (gesture control, AI apps, experimental UIs)
 
----
+</div>
 
-# ⚡ What I do
+## 🚀 Live Experiments
 
-I’m transitioning from a **business analyst → AI product builder / software engineer**, by building and shipping real projects in public.
+🖐️ **Air Dodge (Gesture-Controlled Game)**  
+👉 Built using MediaPipe + JavaScript Canvas  
+👉 Controlled entirely using index finger tracking  
 
-I like working on:
-- AI-powered web apps
-- computer vision interactions (like hand tracking)
-- experimental UI/UX systems
-- automation + productivity tools
-- fast MVP prototyping
+🔗 Live Demo: [Add Vercel link here]  
+📹 Demo: (add GIF here later)
 
----
+## 🔥 Currently Building
+
+- Air UI systems (gesture-controlled interfaces)
+- AI-powered productivity tools
+- Webcam-based interaction experiments
+- Fast AI prototypes using Cursor + APIs
 
 # 🎮 Featured Projects
 
@@ -34,18 +38,13 @@ A browser game controlled entirely using index finger tracking via webcam (Media
 
 ---
 
-## 🧪 AI Interaction Lab
-A collection of experiments exploring future UI systems.
+## 🛠️ Skills in Action
 
-Includes:
-- gesture-controlled prototypes
-- AI-assisted tools
-- UI interaction experiments
-- webcam-based input systems
-
-👉 Goal: rethink how humans interact with software
-
----
+- 🖐️ Computer Vision → MediaPipe hand tracking
+- ⚡ Frontend → interactive Canvas + UI systems
+- 🤖 AI APIs → building AI-powered features
+- 🚀 Product Thinking → turning ideas into prototypes fast
+- 🧪 Prototyping → shipping experiments in days, not weeks
 
 # 🧠 What I’m exploring
 
