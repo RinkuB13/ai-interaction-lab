@@ -24,9 +24,9 @@ I build AI-powered interactive systems (gesture control, AI apps, experimental U
 - Webcam-based interaction experiments
 - Fast AI prototypes using Cursor + APIs
 
-# 🎮 Featured Projects
+## 🎮 Featured Projects
 
-## 🖐️ Air Dodge (Gesture-Controlled Game)
+### 🖐️ Air Dodge (Gesture-Controlled Game)
 A browser game controlled entirely using index finger tracking via webcam (MediaPipe).
 
 - Real-time hand tracking
@@ -46,7 +46,7 @@ A browser game controlled entirely using index finger tracking via webcam (Media
 - 🚀 Product Thinking → turning ideas into prototypes fast
 - 🧪 Prototyping → shipping experiments in days, not weeks
 
-# 🧠 What I’m exploring
+## 🧠 What I’m exploring
 
 - Can we replace mouse/keyboard with natural gestures?
 - What does “AI-native UI” look like?
@@ -55,7 +55,7 @@ A browser game controlled entirely using index finger tracking via webcam (Media
 
 ---
 
-# 🛠️ Tech I use
+## 🛠️ Tech I use
 
 - JavaScript / HTML / CSS
 - Canvas API
@@ -66,7 +66,7 @@ A browser game controlled entirely using index finger tracking via webcam (Media
 
 ---
 
-# 🚀 Currently building
+## 🚀 Currently building
 
 - Air UI apps (gesture-controlled interfaces)
 - AI mini-products & tools
@@ -75,7 +75,7 @@ A browser game controlled entirely using index finger tracking via webcam (Media
 
 ---
 
-# 📈 My goal
+## 📈 My goal
 
 To become an **AI Product Engineer** who can:
 - turn ideas into working prototypes fast
@@ -85,7 +85,7 @@ To become an **AI Product Engineer** who can:
 
 ---
 
-# 📫 Let’s connect
+## 📫 Let’s connect
 
 I’m always interested in:
 - AI product ideas
